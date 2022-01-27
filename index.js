@@ -4,7 +4,7 @@ const client = new ClientBuilder()
     .node('https://api.lb-0.h.chrysalis-devnet.iota.cafe')
     .build()
 
-//You can uncomment the line above to check IOTA node connection
+//You can uncomment the line below to check IOTA node connection
 //client.getInfo().then(console.log).catch(console.error)
 
 
