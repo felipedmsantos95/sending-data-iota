@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@iota/client": "^2.2.3"
+  }
+}
