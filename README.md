@@ -1,4 +1,4 @@
-# Send Data to IOTA
+# Send Data to IOTA Tangle Devnet
 
 
 **Requirements:**
